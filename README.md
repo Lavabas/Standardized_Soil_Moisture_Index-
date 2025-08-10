@@ -23,6 +23,9 @@ The script leverages Google Earth Engine (GEE), geemap, and xarray to:
 ### Monthly Standardized Soil Moisture Index (SSI) for 2019
 <img width="1197" height="889" alt="image" src="https://github.com/user-attachments/assets/d56db454-4178-4850-b452-6379184a8de3" />
 
+### Point-Based SSI Time Series
+<img width="559" height="432" alt="image" src="https://github.com/user-attachments/assets/757503ca-c2c5-4713-8f01-39b58fcb3262" />
+
 
 ## Notes
 1. This script requires a valid GEE account with high-volume API access (https://earthengine-highvolume.googleapis.com) and should be run in an environment that supports interactive map drawing.
