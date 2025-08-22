@@ -17,7 +17,7 @@ The script leverages Google Earth Engine (GEE), geemap, and xarray to:
 ### Long-Term Standard Deviation of Soil Moisture (2016–2024)
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/99b251b1-bbda-4a8b-b7f1-b5b2fb704ef9" />
 
-### Long-Term Standard Deviation of Soil Moisture (2016–2024)
+### Annual SSI Anomaly Maps (2016–2024)
 <img width="1182" height="590" alt="image" src="https://github.com/user-attachments/assets/f99a9f15-db10-4d00-b44c-2ab94d9bfef5" />
 
 ### Monthly Standardized Soil Moisture Index (SSI) for 2019
